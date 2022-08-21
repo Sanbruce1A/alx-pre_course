@@ -1,1 +1,1 @@
-0x01-git tasked readme
+Getting to know more about git
